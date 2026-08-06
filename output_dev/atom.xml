@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[Madrid Web Dev]]></title>
+    <link href="/atom.xml" rel="self"/>
+    <link href="/"/>
+    <updated>
+Deprecated: DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /var/www/html/vendor/twig/twig/src/Extension/CoreExtension.php on line 522
+2026-08-05T14:07:09+02:00</updated>
+    <id>/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Primrea prueba]]></title>
+            <link href="/blog/2026/08/05/Primer-post/"/>
+            <updated>2026-08-05T00:00:00+02:00</updated>
+            <id>/blog/2026/08/05/Primer-post/</id>
+            <content type="html"><![CDATA[<p>Esta es una primra prueba de craer un post en Sculpin.</p>
+
+<p>Utilizamos archivos estáticos de MD para generar el contenido, es cierto que con estas herramientas de generación de contenido es muy complicado tener las mismas funcionalides que se tienen en un cms, pero cuando se quieren tener dos otres funcionales como mucho, y que las funcionalidades pudan vivir de forma independiente no es necesario del todo montar un CMS.</p>
+
+<p>La idea para este sitio sería tener por un lado Eventos, para ir publicando los eventos de Madrid Web Dev, y por otro lado entradas en el blog por si nos apetece escribir algo, y por último publicar los eventos en formato json siguiend el formato de <a href="https://github.com/OpenTechEvents/opentechevents-spec">Open Tech Events</a>.</p>
+]]></content>
+        </entry>
+    </feed>

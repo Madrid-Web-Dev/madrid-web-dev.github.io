@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[Madrid Web Dev]]></title>
+    <link href="/blog/tags/static site generator.xml" rel="self"/>
+    <link href="/"/>
+    <updated>
+Deprecated: DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated in /var/www/html/vendor/twig/twig/src/Extension/CoreExtension.php on line 522
+2026-08-05T14:03:57+02:00</updated>
+    <id>/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Balrog]]></title>
+            <link href="/blog/2012/10/16/balrog/"/>
+            <updated>2012-10-16T00:00:00+02:00</updated>
+            <id>/blog/2012/10/16/balrog/</id>
+            <content type="html"><![CDATA[<p>Found out about <a href="http://github.com/igorw/balrog">Balrog</a> today! It looks
+like a really nice micro static site generator. Maybe Sculpin and Balrog
+can be friends?</p>
+]]></content>
+        </entry>
+    </feed>
