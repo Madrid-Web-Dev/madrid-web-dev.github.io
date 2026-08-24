@@ -8,3 +8,5 @@ output_test/
 clover.xml
 .php-version
 .phpunit.result.cache
+/output_dev/*.*
+/output_prod/

@@ -1,12 +1,18 @@
 ---
 layout: default
-title: About
+title: Sobre nosotros
 
 ---
-# About the Author or Blog
+# Sobre Madrid Web Dev
 
-La idea detras de todo esto es recuperar la actividad de comunidad que existión entre 2009 y 2012 vía Medialab Prado cuando estaba enfrente de de la Caixa.
+Somos un grupo de personas interesadas en compartir conocimientos y reunirnos una vez al mes para centrarnos en un tema y crear vincúlos entre usuarios, profesionales o simplemente personas con curiosidad.
 
-La idea es hablar de software libre (FLOSS), hablar de desarrollo web, hablar de lo que se mueve entorno a las nuevas tecnologías (también la IA), y ver como va evolucionando todo.
+Nos interesa hablar sobre todo de desarrollo web, software libre (FLOSS) y todo lo que se mueve en torno a las nuevas tecnologias (incluida la IA). 
 
-Uno de los puntos objetivos es que las reuniones que se vean estén centradas en elementos muy concretos
+## Historia
+
+El grupo surge de la gente que se juntaba para las actividades que se realizaban sobre tecnologia en el Medialab Prado entre 2009 y 2012 (actual Serreria Belga, en frente del CaixaForum Madrid).
+
+A partir de ahí hemos ido cambiando de espacios o simplemente reuniéndonos alrededor de unas bebidas para intercambiar opiniones.
+
+Actualmente (2026) hacemos sesiones mensuales en el espacio Puerta Innovación (cerca de la Puerta de Toledo) .
