@@ -9,7 +9,7 @@ Cuando: 24 de septiembre a las 19:00
 
 Donde: [Puerta Innovación](https://maps.app.goo.gl/EYMvjtnWvW644doWA) Calle de Toledo, 110
 
-![Photo](/assets/img/DDEV.webp)
+![Cabecera de la sesión](/assets/img/DDEV.webp)
 
 Puede que tengas tu propio entorno de desarrollo con contenedores docker y/o máquinas virtuales o incluso ya estés usando DDEV pero tienes curiosidad sobre como te puede facilitar más el desarrollo local. O incluso quieres aprender a adaptarlo para ese extraño proyecto que tiene unos requisitos peculiares. Si es así ¡esta sesión te puede interesar!
 
@@ -29,6 +29,8 @@ Lo que vamos a cubrir:
 La sesión se puede seguir en vivo si traes tu propio pórtatil con docker instalado (usando WLS2 en caso de Windows).
 
 Ponente: [Rodrigo Aguilera](https://www.drupal.org/u/rodrigoaguilera)
+
+![Foto de Rodrigo](/assets/img/rodrigoaguilera.jpg)
 
 Rodrigo es un desarrollador de Drupal con más de 18 ános de experiencia en desarrollo web y un especial interés en la coordinación de equipos de desarrollo. 
 Su experiencia con las distintas herramientas que han existido a lo largo de los años le lleva presentar esta sesión sobre la herramienta con la que lleva
