@@ -25,7 +25,7 @@ jobs:
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
         with:
-          php-version: '8.2'  # adjust to your PHP version
+          php-version: '8.5'  # adjust to your PHP version
           extensions: mbstring, intl, xml
           tools: composer:v2
 
