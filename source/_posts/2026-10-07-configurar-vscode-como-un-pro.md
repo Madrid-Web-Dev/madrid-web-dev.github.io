@@ -11,7 +11,7 @@ Donde: [Puerta Innovación](https://maps.app.goo.gl/EYMvjtnWvW644doWA) Calle de 
 
 [Inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfomJO1QL7mNqcuBbGp5PTBHvWcFhE_kFAjJl66PpCxQ04D8g/viewform?usp=header)
 
-![Cabecera de la sesión](https://cdn-1.webcatalog.io/catalog/vs-code/vs-code-social-preview.png?v=1714776407457)
+![Cabecera de la sesión](https://miro.medium.com/v2/0*JQ3INI7sdhkF1T3R.png)
 
 La charla será un recorrido práctico por las distintas formas de configurar Visual Studio Code para trabajar de forma más eficiente y, sobre todo, de manera reproducible.
 
