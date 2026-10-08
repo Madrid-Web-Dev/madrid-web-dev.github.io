@@ -5,7 +5,7 @@ categories:
 
 ---
 
-Cuando: 29 de octubre a las 19:00 
+Cuando: 27 de octubre a las 19:00 
 
 Donde: [Puerta Innovación](https://maps.app.goo.gl/EYMvjtnWvW644doWA) Calle de Toledo, 110
 
